@@ -1,1 +1,2 @@
-# l10n_bo_hr
+# Localization-16-Payroll
+Bolivia - Payroll
